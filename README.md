@@ -1,1 +1,3 @@
 # Backtesting
+Backtesting in finance is a technique used to evaluate the effectiveness of a trading strategy or investment model using historical market data. The process involves applying the strategy or model to historical market data to see how it would have performed if it had been used during that time period.
+The main goal of backtesting is to identify the strengths and weaknesses of a trading strategy or investment model, as well as to determine its potential profitability and risk profile. By analyzing past performance, traders and investors can gain insight into how a strategy or model may perform in the future.
